@@ -1,0 +1,61 @@
+.left{
+    height: 810px;
+    background-color: rgba(23, 23, 122, 0.656);
+}
+
+.right{
+    height: 810px;
+    background-color: yellow;
+}
+
+section{
+    width: 70%;
+    margin: auto;
+}
+
+.img-div{
+    width: 200px;
+    border-radius: 50% ;
+    height: 200px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 30px;
+
+}
+ 
+.details-div{
+    margin-top: 40px;
+}
+
+.skill-div{
+    margin-top: 40px;
+}
+
+img{
+    border-radius: 50%;
+    height: 200px;
+}
+
+.about-div{
+    margin-top: 40px;
+}
+
+.eduction-div{
+    margin-top: 40px;
+}
+
+.project-div{
+    margin-top: 40px;
+}
+
+.intern-div{
+    margin-top: 40px;
+}
+h1{
+    margin-top: 60px;
+    margin-right: auto;
+    margin-left: 150px;
+}
+.lang-div{
+    margin-bottom: 10px;
+}
